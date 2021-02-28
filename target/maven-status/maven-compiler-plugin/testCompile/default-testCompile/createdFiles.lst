@@ -1,0 +1,4 @@
+com/unsplash/demo/service/DemoServiceTest.class
+com/unsplash/demo/controller/DemoControllerTest.class
+com/unsplash/demo/DemoApplicationTests.class
+com/unsplash/demo/controller/mapper/DemoControllerMapperTest.class

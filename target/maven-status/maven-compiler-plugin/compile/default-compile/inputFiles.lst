@@ -1,0 +1,17 @@
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/model/Source.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/model/Collection.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/controller/rdto/ResponseRSDTO.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/service/DemoService.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/service/dto/output/CollectionODTO.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/service/resource/CollectionResource.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/service/mapper/DemoServiceMapperImpl.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/controller/mapper/DemoControllerMapperImpl.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/utils/ObjectMapperUtils.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/model/CoverPhoto.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/configuration/DemoConfigurator.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/controller/mapper/DemoControllerMapper.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/service/mapper/DemoServiceMapper.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/controller/DemoController.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/service/DemoServiceImpl.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/DemoApplication.java
+/home/padeling/Desktop/Unsplash/demoUnsplash/demoUnsplash/src/main/java/com/unsplash/demo/model/Tags.java
